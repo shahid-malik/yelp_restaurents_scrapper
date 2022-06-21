@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.0
 bs4==0.0.1
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0
 requests==2.18.4
 selenium==3.9.0
